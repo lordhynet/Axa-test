@@ -1,0 +1,17 @@
+body, html {
+    height: 100%;
+    margin: 0;
+  }
+  
+  .full-height {
+    min-height: 96vh; 
+  }
+  
+  * {
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif; 
+  }
+
+  i {
+    font-size: 1.2rem;
+  }

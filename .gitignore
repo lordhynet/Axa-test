@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AxaManxard-TestApi/.vs/AxaManxard-TestApi/FileContentIndex
+/AxaManxard-TestApi/.vs
+/AxaManxard-TestApi/bin/Debug/net8.0
